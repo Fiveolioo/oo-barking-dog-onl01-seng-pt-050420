@@ -1,6 +1,10 @@
 # Your code goes here!
 class Dog
   
-def name=(dogs_name)
-  
+def name=(dog_name)
+  @dogs_names = dog_name
+end
+
+def name 
+  @dogs_names
 end
