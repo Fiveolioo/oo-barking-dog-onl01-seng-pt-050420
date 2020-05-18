@@ -8,3 +8,5 @@ end
 def name 
   @dogs_names
 end
+
+end
