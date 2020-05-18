@@ -9,4 +9,6 @@ def name
   @dogs_names
 end
 
+def bark
+  
 end
